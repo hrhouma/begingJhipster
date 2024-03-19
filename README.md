@@ -118,6 +118,11 @@ Page de Open API
 http://localhost:8080/h2-console/
 ![image](https://github.com/hrhouma/begingJhipster/assets/10111526/7aab369f-7c69-4e0c-8688-729d34a7a5eb)
 
+# Est-ce possible d'écrire son propre diagramme JDL ?
+Rien n'est plus facile que d'écrire son diagramme JDL avec les relations entre vos entités moyennat JDL STUDIO.
+N'oubliez pas de définir les relations entre vos entités !!!
+https://www.jhipster.tech/jdl-studio/
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/6a20d3ff-f1b4-47b6-9eb5-8c3e37f31627)
 
 
 ## Contribution
