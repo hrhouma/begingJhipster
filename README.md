@@ -62,6 +62,31 @@ Après avoir configuré votre projet JHipster, explorez les documents et ressour
 - [JHipster GitHub repository](https://github.com/jhipster/generator-jhipster)
 - [Communauté JHipster sur Stack Overflow](https://stackoverflow.com/questions/tagged/jhipster)
 
+# Commandes
+
+```bash
+# Créer un répertoire pour le projet et naviguer à l'intérieur
+mkdir onlinestore && cd onlinestore
+
+# Installer JHipster globalement
+npm install -g generator-jhipster
+
+# En cas de problèmes, installer une version spécifique de JHipster
+npm install -g jhipster/generator-jhipster#v7.x_maintenance
+
+# Afficher l'aide de JHipster
+jhipster --help
+
+# Créer une nouvelle application JHipster
+jhipster
+
+# Importer un modèle JDL dans le projet
+jhipster jdl ./jdl/jhipster-order-stock-jdl.jh
+
+# Compiler et exécuter l'application avec Maven Wrapper
+./mvnw
+```
+
 ## Contribution
 
 JHipster est un projet open-source, et les contributions sont toujours les bienvenues! Si vous souhaitez contribuer, veuillez consulter le [guide de contribution](https://github.com/jhipster/generator-jhipster/blob/main/CONTRIBUTING.md) sur GitHub.
