@@ -90,6 +90,18 @@ jhipster jdl ./jdl/jhipster-order-stock-jdl.jh
 1. Saisir http://localhost:8080/ 
 2. S'authentifier ou créer un compte
 ![image](https://github.com/hrhouma/begingJhipster/assets/10111526/8a69fa18-6d6a-43aa-b3bc-1605e658febe)
+3. Saisir admin/admin
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/0b1e27ef-db8c-4f48-85cc-dd174dd484de)
+4. Voir les entités
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/d1f97c76-661f-4ece-b76f-af4da985767c)
+5. CRUD
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/49268ed1-c87a-40d1-b8b4-a88b2d7e6201)
+6. Dans la partie Administration, vous avez la possibilité d'accéder àa la documentaion
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/635af71f-d7c2-4408-b043-ba3e46ec10c3)
+
+
+
+
 
 ## Contribution
 
