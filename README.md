@@ -98,8 +98,11 @@ jhipster jdl ./jdl/jhipster-order-stock-jdl.jh
 ![image](https://github.com/hrhouma/begingJhipster/assets/10111526/49268ed1-c87a-40d1-b8b4-a88b2d7e6201)
 6. Dans la partie Administration, vous avez la possibilité d'accéder àa la documentaion
 ![image](https://github.com/hrhouma/begingJhipster/assets/10111526/635af71f-d7c2-4408-b043-ba3e46ec10c3)
-
-
+Page de Open API
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/38080985-fb06-49e6-9edf-e550d0a1c672)
+7. Accéder à la page de la base de données en mémoire H2
+http://localhost:8080/h2-console/
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/7aab369f-7c69-4e0c-8688-729d34a7a5eb)
 
 
 
