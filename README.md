@@ -59,6 +59,13 @@ jhipster jdl ./jdl/jhipster-order-stock-jdl.jh
 
 Assurez-vous que le fichier `.jh` se trouve dans le répertoire spécifié ou ajustez le chemin selon votre structure de répertoire.
 
+## Compiler et exécuter l'application avec Maven Wrapper
+./mvnw
+
+# Très important
+Assurez-vous que les ports sont libres ! Par exemple, le port 8080 doit être libre et non pas utilisé par une autre application.
+Sinon vous pouvez effectuer les changements dans les configurations !
+
 ## Prochaines étapes
 
 Après avoir configuré votre projet JHipster, explorez les documents et ressources suivants pour tirer le meilleur parti de JHipster :
