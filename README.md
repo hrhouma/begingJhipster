@@ -45,6 +45,11 @@ jhipster --help
 ```bash
 jhipster
 ```
+### Répondre aux questions suivantes pour créer votre application
+
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/ca73690a-fc74-413e-a86c-8dc9af49b8e3)
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/5ec85c33-f3c5-48e9-8831-af70ff7118f8)
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/42534685-e2ae-47bb-91b3-ecb7461545d8)
 
 - Pour importer un modèle JDL (JHipster Domain Language) dans votre projet, utilisez :
 
