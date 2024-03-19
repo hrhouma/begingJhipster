@@ -86,6 +86,10 @@ jhipster jdl ./jdl/jhipster-order-stock-jdl.jh
 # Compiler et exécuter l'application avec Maven Wrapper
 ./mvnw
 ```
+# Étapes
+1. Saisir http://localhost:8080/ 
+2. S'authentifier ou créer un compte
+![image](https://github.com/hrhouma/begingJhipster/assets/10111526/8a69fa18-6d6a-43aa-b3bc-1605e658febe)
 
 ## Contribution
 
